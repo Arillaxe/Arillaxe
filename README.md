@@ -9,7 +9,7 @@ Started programming by making minecraft mods and games, ended up working as a Fu
 * 🌍  I'm based in Turkey, Antalya
 * ✉️  You can contact me at [arillaxe@gmail.com](mailto:arillaxe@gmail.com)
 * 🧠  I'm learning C++, OpenGL
-* ⚡  One day I'll make a game, and it will bring joy
+* ⚡  One day I'll make a game
 
 ### Skills
 
