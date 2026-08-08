@@ -5,4 +5,4 @@ Hi, my name is Bekir
 
 Started programming by making minecraft mods and small games, ended up working as a js fullstack guy for 7 years \*sigh\*
 
-Currently woring on [vixy](https://github.com/Arillaxe/vixy) - Mesh-based voxel engine using Vulkan
+Currently working on [vixy](https://github.com/Arillaxe/vixy) - Mesh-based voxel engine using Vulkan
